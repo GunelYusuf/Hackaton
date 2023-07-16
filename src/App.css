@@ -1,0 +1,16 @@
+.container{
+  display : flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: image('./alastech-logo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 160vh;
+  width: 100%;
+  color:'grey';
+  padding:"0 40px";
+  font-family: 'Kanit', sans-serif;
+  margin-top: 20px;
+}
